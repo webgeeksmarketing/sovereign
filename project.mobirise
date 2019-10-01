@@ -677,7 +677,7 @@
         }
       ]
     },
-    "page1.html": {
+    "about.html": {
       "settings": {
         "title": "ABOUT",
         "meta_descr": "",
@@ -1369,7 +1369,7 @@
         }
       ]
     },
-    "page2.html": {
+    "follow-us.html": {
       "settings": {
         "title": "FOLLOW US",
         "meta_descr": "",
@@ -2008,7 +2008,7 @@
         }
       ]
     },
-    "page3.html": {
+    "support-us.html": {
       "settings": {
         "title": "SUPPORT",
         "meta_descr": "",
